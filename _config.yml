@@ -36,11 +36,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ferran@ferranaran.com"
-  facebook: ferranad
+# email: "ferran@ferranaran.com"
+# facebook: ferranad
   github: ferranad
-  twitter: ferranad
-  youtube: "@ferranad"
+# twitter: ferranad
+# youtube: "@ferranad"
   linkedin: ferranaran
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -70,9 +70,9 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -111,7 +111,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+page-col: "#E6E6FA"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -127,7 +127,7 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-footer-img: "/images/FondoPerfil.png"
+#footer-img: "/images/FondoPerfil.png"
 #page-img: "/assets/img/bgimage.png"
 
 
