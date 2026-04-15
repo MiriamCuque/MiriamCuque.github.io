@@ -127,7 +127,7 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
+footer-img: "/images/FondoPerfil.png"
 #page-img: "/assets/img/bgimage.png"
 
 
