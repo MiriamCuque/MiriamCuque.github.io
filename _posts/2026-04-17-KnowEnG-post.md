@@ -1,0 +1,81 @@
+---
+layout: post
+title: Discover Discover Solu
+subtitle: Real Time Genomic Pathogen Surveillance
+---
+
+## What is Solu?
+
+[**Solu**](https://www.solugenomics.com/) is a user-friendly web platform that **analyzes bacterial or fungal DNA** from patient infections and delivers **clear results in 10 minutes** .
+**The problem it solves**: When hospitals sequence infection samples, they get massive DNA files requiring **expert analysis that can take 2-3 days**. **Solu automates everything**: 
+
+Upload DNA file → Get instant answers in 10 minutes:
+
+✓  What bacteria/fungus? (MRSA, Salmonella, Candida auris?)
+
+✓  Which antibiotics won't work? (resistance profile)
+
+✓  Are multiple patients infected with the SAME strain? (outbreak alert)
+
+✓  Visual "family tree" showing how infections spread between patients
+
+**It is developed specifically for hospitals** - HIPAA-compliant with automatic outbreak detection that compares new samples against your entire historical dataset.
+
+## Why Hospitals Need This Now
+
+**Antibiotic resistance kills 1.27 million people yearly worldwide.** Superbugs like MRSA and VRE spread silently between patients. 
+
+**Traditional analysis fails hospitals because:**
+- **Too slow**. 2-3 days = infections spread unchecked
+- **Too complex**. Command-line tools nobody understands
+- **Not secure**. Academic tools don't meet HIPAA standards
+- **Too expensive**.
+
+**Solu fixes all this** with a simple web interface built for infection control teams.
+
+## How it works?
+
+1. **Drag & drop** your FASTQ files (from any sequencer)
+2. **Solu analyzes automatically** (no configuration needed):
+   - Identifies species
+   - Detects antibiotic resistance genes 
+   - Builds phylogenetic trees vs. all your historical samples
+3. **View interactive results**: Species reports, resistance profiles, outbreak clusters
+
+**Time**: **10 min (bacteria)** | **20 min (fungi)**  
+**Demo**: https://platform.solugenomics.com/w/solu-publication
+
+## Proven Results: Real Hospital Outbreaks
+
+**Solu was rigorously tested on 304 outbreak samples** from published studies:
+
+| Pathogen | Samples | Key Results | Analysis Time |
+|----------|---------|-------------|---------------|
+| **S. aureus (MRSA)** | 135 | **98 % typing accuracy**, mecA 98.8 % | **11 min** |
+| **E. faecium (VRE)** | 99 | **99.6 % resistance detection** | **7 min** |
+| **Salmonella** | 23 | Perfect species ID | **8 min** |
+| **Candida auris** | 47 | Found mutations missed by original study | **24 min** |
+
+**Solu even discovered new resistance mutations** that original researchers missed!
+
+## It is safe? 
+
+**Enterprise-grade security for hospitals:**
+
+| Security Feature | ✓ Status |
+|------------------|----------|
+| **HIPAA** | Compliant - BAA available |
+| **ISO27001** | Certified |
+| **Data encryption** | At rest + in transit |
+| **Private cloud** | Your data never shared |
+| **Storage options** | EU or US (your choice) |
+
+**Not an academic project** - **commercial platform** by **Solu Healthcare Oy (Finland)** with ongoing support and updates.
+
+## Want to learn more?
+
+I know you do!
+
+**"Solu: a cloud platform for real-time genomic pathogen surveillance"**  
+Saratto, T., Visuri, K., Lehtinen, J. et al. Solu: a cloud platform for real-time genomic pathogen surveillance. BMC Bioinformatics 26, 12 (2025).
+https://doi.org/10.1186/s12859-024-06005-z
